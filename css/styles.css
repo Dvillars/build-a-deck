@@ -1,0 +1,12 @@
+#result {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #4286f4;
+}
+
+#button {
+  margin-top: 3%;
+}
